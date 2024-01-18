@@ -2,7 +2,7 @@
 Unreal UI Assignmnet
 
 I to open and close inventory
-Esc to close UI
+Hover mouse over container then E or I to close
 E to interact with chests and items
 
 
